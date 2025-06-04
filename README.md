@@ -1,6 +1,6 @@
 ---
 Alishba Bacha's Portfolio website
 ---
-![image](https://github.com/user-attachments/assets/b1cde112-8154-4da3-8387-39b5b5383a94)
+A little about me and some of my projects.
 
 #Deployed on vercel
